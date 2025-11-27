@@ -1,6 +1,6 @@
 {
   "version": "2.2.0",
-  "version_code": 15,
+  "version_code": 2,
   "download_url": "https://github.com/anu12e/Machanical-production-/raw/main/base.apk",
   "release_notes": "• New PDF features added\n• Improved performance\n• Bug fixes\n• Enhanced security",
   "features": [
@@ -17,6 +17,6 @@
     "Enhanced search functionality",
     "Better performance optimization"
   ],
-  "file_size": "15MB",
-  "release_date": "2024-01-15"
+  "file_size": "42MB",
+  "release_date": "2025-11-27"
 }
