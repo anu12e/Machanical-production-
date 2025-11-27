@@ -1,22 +1,22 @@
 {
-    "version": "2.2.0",
-    "download_url": "https://your-actual-apk-link.com/app-release.apk",
-    "release_notes": "• New PDF features added\n• Improved performance\n• Bug fixes\n• Enhanced security",
-    "features": [
-        "PDF Upload & Download",
-        "Secure File Storage", 
-        "Offline PDF Viewer",
-        "Auto Update System",
-        "User Friendly Interface",
-        "Fast Processing"
-    ],
-    "whats_new": [
-        "Added dark mode support",
-        "Improved file management",
-        "Enhanced search functionality",
-        "Better performance optimization"
-    ],
-    "minimum_android": "5.0",
-    "file_size": "15MB",
-    "release_date": "2024-01-15"
+  "version": "2.2.0",
+  "version_code": 15,
+  "download_url": "https://github.com/anu12e/Machanical-production-/raw/main/base.apk",
+  "release_notes": "• New PDF features added\n• Improved performance\n• Bug fixes\n• Enhanced security",
+  "features": [
+    "PDF Upload & Download",
+    "Secure File Storage", 
+    "Offline PDF Viewer",
+    "Auto Update System",
+    "User Friendly Interface",
+    "Fast Processing"
+  ],
+  "whats_new": [
+    "Added dark mode support",
+    "Improved file management",
+    "Enhanced search functionality",
+    "Better performance optimization"
+  ],
+  "file_size": "15MB",
+  "release_date": "2024-01-15"
 }
