@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
+  "version": "2.1.0",
   "version_code": 2,
-  "download_url": "https://github.com/anu12e/Machanical-production-/raw/main/base.apk",
+  "download_url": "https://github.com/anu12e/Machanical-production-/raw/main/engineer.apk",
   "release_notes": "• New PDF features added\n• Improved performance\n• Bug fixes\n• Enhanced security",
   "features": [
     "PDF Upload & Download",
