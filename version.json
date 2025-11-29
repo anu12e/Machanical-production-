@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "version_code": 2,
-  "download_url": "https://github.com/anu12e/Machanical-production-/raw/main/engineer.apk",
+  "version": "2.1.1",
+  "version_code": 5,
+  "download_url": "https://github.com/anu12e/Machanical-production-/raw/main/theengineer.apk",
   "release_notes": "• New PDF features added\n• Improved performance\n• Bug fixes\n• Enhanced security",
   "features": [
     "PDF Upload & Download",
@@ -12,11 +12,14 @@
     "Fast Processing"
   ],
   "whats_new": [
-    "Added dark mode support",
-    "Improved file management",
+    "upload drive pdf system ",
+    "Download and drive pdf ",
     "Enhanced search functionality",
+    "game",
+    "browser function ",
+    "offline seen pdf",
     "Better performance optimization"
   ],
-  "file_size": "42MB",
-  "release_date": "2025-11-27"
+  "file_size": "14MB",
+  "release_date": "2025-11-29"
 }
